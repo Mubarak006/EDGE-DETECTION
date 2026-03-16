@@ -81,6 +81,8 @@ plt.axis("off"); plt.imshow(edges,cmap='gray');plt.title('Canny Edge Map');
 
 
 
+
+
 ### LAPLACIAN EDGE DETECTOR
 
 
